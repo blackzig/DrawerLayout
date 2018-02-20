@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/btnSave"
+        android:icon="@drawable/ic_save_black_24dp"
+        android:title="Salvar"/>
+
+    <item android:id="@+id/btnUpdate"
+        android:icon="@drawable/ic_system_update_alt_black_24dp"
+        android:title="Atualizar"/>
+
+    <item android:id="@+id/btnList"
+        android:icon="@drawable/ic_list_black_24dp"
+        android:title="Listar"/>
+
+</menu>
